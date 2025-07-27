@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print("ok boss")
     print("lets try one more time")
     print("one more")
+    print("its from github main")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
