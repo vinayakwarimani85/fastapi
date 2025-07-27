@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     #execeution starts here bro
     print_hi('PyCharm')
+    print("ok boss")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
